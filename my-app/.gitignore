@@ -1,6 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+<<<<<<< HEAD
+=======
+
+>>>>>>> d9a9321ac3a1c34231bba87988187e9e2cd94c95
 
 # testing
 /coverage
